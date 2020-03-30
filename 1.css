@@ -1,0 +1,80 @@
+.main{
+    padding-top: 100px;
+    margin-left: 100px;
+    }
+    .s{
+    font-size: 30px;
+    margin-right: 10000px;
+    }
+    .q{
+    font-size: 60px;
+    color: black;
+    font-family: sans-serif;
+    margin-left: 25px;
+    }
+    .x{
+    font-size: 20px;
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+    margin-left: 25px;
+    }
+    .c{
+        background-color: lightcoral;
+    font-size: 40px;
+    float: left;
+    color: black
+    }
+    .nav{
+        margin-left: 20px;
+    width: 1200px;
+    }
+    li{
+    color: black;
+    font-size: 25px;
+    display: inline-block;
+    float: right;
+    margin-right: 30px;
+    }
+
+    li:hover{
+    color: black;
+    }
+    .FF{
+    margin-right: 80px;
+    float:right;
+    overflow: auto;
+    width: 700px;
+    height: 400px;
+    }
+    .dd{
+        display: inline-block;
+    }
+    .F{
+        margin-left: 20px;
+        width: 380px;
+    height: 60px;
+        float: left;;
+        }
+    .ee{float: right; padding-top: 7px;
+        padding-right: 7px;
+        padding-left: 7px;
+        padding-bottom: 7px;
+        background-color: lightcoral;
+    }
+    .ww{
+        padding-top: 70px;
+        padding-right: 7px;
+        padding-left: 200px;
+        font-size: 50px;
+    }
+    .tt{
+        background-color: peachpuff;
+        width: 1400px;
+        height: 500px;
+
+    }
+    .fff{
+        font-size: 25px;
+        padding-right: 7px;
+        padding-left: 350px;
+    }
